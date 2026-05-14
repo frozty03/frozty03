@@ -57,6 +57,8 @@ Currently working with backend development, web applications, cloud functions, d
 
 ## GitHub Stats
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=frozty03&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=frozty03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozty03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
