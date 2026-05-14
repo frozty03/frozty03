@@ -53,12 +53,4 @@ Currently working with backend development, web applications, cloud functions, d
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozty03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
