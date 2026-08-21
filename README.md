@@ -35,8 +35,6 @@ Currently working with backend development, data-oriented projects and mobile de
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-336791?style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-6C63FF?style=for-the-badge)
 
-*Learning next: Airflow · dbt · BigQuery*
-
 ### Databases & Version Control
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
