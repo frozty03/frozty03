@@ -12,21 +12,10 @@ Currently working with backend development, data-oriented projects and mobile de
 - Interested in backend development, APIs, databases, cloud computing and system design
 - Building projects with Java, TypeScript, Python and Flutter
 - Exploring TypeScript for Firebase Cloud Functions and serverless backend development
-- Currently focused on **Data Engineering**: ETL pipelines, SQL, and data-oriented systems, working toward an internship/junior role
+- Currently focused on **Java & Spring Boot**: working toward an internship/junior role
 - Learning more about scalable applications, authentication, cloud services, software architecture and data-driven systems
 - Also interested in philosophy and existentialism.
 - How to reach me: froza.dev@gmail.com
-
----
-
-## 🧭 Data Engineering roadmap
-
-Building my path into Data Engineering in public — each level is only "done" once there's a public project backing it up, not just finished courses.
-
-- ✅  — Python, SQL, cloud fundamentals
-- ✅  — ETL pipelines with OOP, SQL vs NoSQL
-- 🔄  — Airflow, dbt, modern data architectures (DW/Data Lake/Lakehouse), BigQuery
-- ⬜  — Spark, advanced cloud, Data Mesh
 
 ---
 
